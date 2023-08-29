@@ -3,6 +3,7 @@ This Sudoku Game is made entirely using Android Studio  and has generate answer 
 Just install apk in android or load project in android studio............
 
 Some ScrennShots.....
+
 ![ggg](https://github.com/Rahul16001/SudokuPlay_Android_Game/assets/98033138/b862460a-54e9-46ee-9035-2f8397c49ce2)
 
 ![WhatsApp Image 2023-08-29 at 06 07 27](https://github.com/Rahul16001/SudokuPlay_Android_Game/assets/98033138/452eeb52-03b7-4d0e-8b58-c8f9f5b1792e)
